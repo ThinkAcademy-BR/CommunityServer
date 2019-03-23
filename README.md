@@ -3,7 +3,7 @@
 
 ## Overview
 
-ONLYOFFICE Community Server is a free open source collaborative system developed to manage documents, projects, customer relationship and email correspondence, all in one place.
+Think Office é uma plataforma que foi extendida a partir do ONLYOFFICE Community Server que é um sistema colaborativo e de código aberto desenvolvido para gerenciar documentos, projetos, relacionamento com clientes e correspondência por e-mail, tudo em um só lugar.
 
 ## Functionality
 
